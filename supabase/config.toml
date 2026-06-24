@@ -1,0 +1,6 @@
+project_id = "ccdadmcqyoxexmjkslql"
+
+[functions.lead-created]
+# Invoked by a database webhook, not an end user. Auth is handled by the
+# optional WEBHOOK_SECRET shared-secret header instead of a JWT.
+verify_jwt = false
