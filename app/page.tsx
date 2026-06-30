@@ -74,8 +74,8 @@ export default function Home() {
           title="Locally Owned. Lighting Obsessed."
           caption="Who We Are"
           content="BD Outdoor Lighting was founded on a passion for design and a commitment to honest, high-quality work. We started small and grew through word of mouth — because when you do great work, clients come back and bring their neighbors. Today we light homes and properties across the region with the same dedication that built our reputation."
-          image="/home/IMG_1437.JPEG"
-          imageAlt="Home facade with warm uplighting and an illuminated tree at dusk"
+          image="/Edited/residential-front.png"
+          imageAlt="Craftsman home front with warm uplighting, soffit lights, and a lit walkway at dusk"
           imageLocation="right"
           mobileImageLocation="top"
           primaryButton={{
@@ -96,8 +96,8 @@ export default function Home() {
           title="Lighting Designed Around Your Space"
           caption="Lighting Design & Consulting"
           content="Our lighting designers work with you to create warm, inviting, and dramatic outdoor environments — from subtle path lighting to bold architectural uplighting. We use professional-grade, energy-efficient fixtures built to withstand the elements, so your property looks stunning night after night with minimal upkeep."
-          image="/home/IMG_1433.JPEG"
-          imageAlt="Colorful landscape lighting illuminating garden beds and walkway"
+          image="/Edited/residential-backyard.png"
+          imageAlt="Backyard at night with pergola string lights, fire pit, pool, and landscape lighting"
           imageLocation="left"
           mobileImageLocation="top"
           className="bg-amber-50 dark:bg-amber-950"
@@ -119,8 +119,8 @@ export default function Home() {
         <Hero
           title="Ready to Light Up Your Outdoor Space?"
           subtitle="Get a free, no-obligation consultation and estimate."
-          image="/home/IMG_1439.JPEG"
-          imageAlt="Finished outdoor lighting installation on a home at night"
+          image="/Edited/apartment-firepit.png"
+          imageAlt="Illuminated outdoor lounge with pergola string lights and a glowing fire pit at night"
           imageLocation="right"
           mobileImageLocation="top"
           primaryButton={{

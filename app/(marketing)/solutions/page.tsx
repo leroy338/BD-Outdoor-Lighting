@@ -17,7 +17,7 @@ const solutions = [
     description:
       "Architectural and facade lighting — uplighting, wall washing, soffit, and security lighting that makes your home shine after dark.",
     href: "/solutions/exterior-lighting",
-    image: "/hero-images/zero-turn.jpg",
+    image: "/Edited/residential-front.png",
     tags: ["Uplighting", "Facade Wash", "Soffit Lighting", "Security"],
   },
   {
@@ -26,7 +26,7 @@ const solutions = [
     description:
       "Path lights, garden accents, tree uplighting, and moonlighting designed to highlight the best features of your yard.",
     href: "/solutions/landscape-lighting",
-    image: "/hero-images/yard-waste.jpg",
+    image: "/Edited/apartment-poolside.png",
     tags: ["Path Lighting", "Tree Uplighting", "Garden Accents", "Moonlighting"],
   },
   {
@@ -35,7 +35,7 @@ const solutions = [
     description:
       "Warm, inviting lighting for outdoor living — step lights, railing lights, post caps, and ambient string lighting.",
     href: "/solutions/deck-patio-lighting",
-    image: "/hero-images/zero-turn-2.jpg",
+    image: "/Edited/apartment-firepit.png",
     tags: ["Step Lights", "Railing Lights", "Post Caps", "String Lights"],
   },
   {
@@ -44,7 +44,7 @@ const solutions = [
     description:
       "Pool, pond, and fountain lighting that turns water features into dazzling nighttime focal points.",
     href: "/solutions/underwater-lighting",
-    image: "/hero-images/ride-on-mower.jpg",
+    image: "/Edited/underwater-lighting.png",
     tags: ["Pool Lighting", "Pond Lighting", "Fountains", "Color-Changing LED"],
   },
 ];
